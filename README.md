@@ -1,7 +1,13 @@
-![Screenshot (289)](https://github.com/bubun-001/GYM-CLUB/assets/90140917/2a9db5d3-8093-458e-8563-3222f0e572cb)
-![Screenshot (290)](https://github.com/bubun-001/GYM-CLUB/assets/90140917/517aa4a1-dc74-4ab9-9e11-f212c13568ff)
-![Screenshot (291)](https://github.com/bubun-001/GYM-CLUB/assets/90140917/2a700f0c-b562-42a8-acea-485ce9fd678d)
-![Screenshot (292)](https://github.com/bubun-001/GYM-CLUB/assets/90140917/acafa254-e338-4d6f-9715-3900a65ccf90)
+<img width="925" alt="ss-1" src="https://github.com/bubun-001/GYM-CLUB/assets/90140917/1584cceb-b3fa-40f6-9307-1f83e430674a">
+<img width="959" alt="ss-2" src="https://github.com/bubun-001/GYM-CLUB/assets/90140917/4d1344c9-9364-4416-a208-6852e8b21bdc">
+<img width="765" alt="ss-3" src="https://github.com/bubun-001/GYM-CLUB/assets/90140917/519ee2bb-5548-4384-9983-9d5d9f5616e2">
+<img width="785" alt="ss-4" src="https://github.com/bubun-001/GYM-CLUB/assets/90140917/f70101c9-e045-4e84-8f5c-d4d285f30419">
+<img width="956" alt="ss-5" src="https://github.com/bubun-001/GYM-CLUB/assets/90140917/114dc01c-35e8-4a6b-9392-be7a968a1edc">
+
+
+
+
+
 
 
 
