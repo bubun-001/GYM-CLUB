@@ -1,3 +1,10 @@
+A fitness App that has the functionality to choose exercise categories of specific muscle groups , browse more than thousand exercises and can also refer the video .
+-> Display Similar exercises
+-> Display similar equipment exercises
+-> Details about an Exercise
+-> It also allows users to refer exercise videos.
+
+
 <img width="925" alt="ss-1" src="https://github.com/bubun-001/GYM-CLUB/assets/90140917/1584cceb-b3fa-40f6-9307-1f83e430674a">
 <img width="959" alt="ss-2" src="https://github.com/bubun-001/GYM-CLUB/assets/90140917/4d1344c9-9364-4416-a208-6852e8b21bdc">
 <img width="765" alt="ss-3" src="https://github.com/bubun-001/GYM-CLUB/assets/90140917/519ee2bb-5548-4384-9983-9d5d9f5616e2">
