@@ -1,7 +1,15 @@
 A fitness App that has the functionality to choose exercise categories of specific muscle groups , browse more than thousand exercises and can also refer the video .
--> Display Similar exercises
--> Display similar equipment exercises
+ Display Similar exercises 
+
+ 
+-> Display similar equipment exercises 
+
+
+
 -> Details about an Exercise
+
+
+
 -> It also allows users to refer exercise videos.
 
 
